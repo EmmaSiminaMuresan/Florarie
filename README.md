@@ -128,6 +128,5 @@ This project is licensed under the **Technical University of Cluj-Napoca** licen
 
 ## Acknowledgments
 
-- **Developers**: Muresan Emma Simina, Sucala Paula Ilinca.
 - **Institution**: Technical University of Cluj-Napoca.
 
